@@ -8,6 +8,9 @@ const app = express();
 app.use(express.json());
 
 app.post('/', async (req, res) => {
+    if(req.headers?.key != process.env.KEY){
+        return res.status(403).json({msg: 'denied'});
+    }
     const {name} = req.body;
 
     const index = getRandomIndex(data[name].length);
