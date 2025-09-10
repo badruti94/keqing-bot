@@ -1,12 +1,20 @@
 {
     "pagi": [
-        "Selamat pagi",
-        "Selamat pagi 2",
-        "Selamat pagi 3"
+        "Selamat pagi Badru, selamat jalani hari. Meskipun hari ini belum tentu jadi hari yang baik, ayo kita lakukan yang terbaik",
+        "Selamat pagi. Selamat jalani hari. Selamat berjuang hari ini. Kapan pun kamu merasa malas, ingatlah apa yang kamu perjuangkan.",
+        "Selamat pagi Badru. Selamat jalani hidup. Aku tau hidup ini memang tidak adil, tapi mencak - mencak hanya akan menambah ironi kehidupan ini. Yang bisa kita lakukan adalah melawan ketidak adilan hidup ini, meski kita tau mungkin saja kita takkan menang melawannya. \nTetap berjuang melawan ketidak adilan hidup ini."
     ],
     "siang": [
-        "Selamat siang",
-        "Selamat siang 2",
-        "Selamat siang 3"
+        "Selamat siang Badru, udah makan belum? Mau makan apapun kamu, harus kamu syukuri ya.",
+        "Selamat siang Badru, selamat jalani hari. Bagaimana siangmu? Masih semangat? Tetap semangat ya karena hari masih panjang"
+    ],
+    "kerja": [
+        "Sekarang kamu kerja ya? Semangat kerjanya ya. Apapun pekerjaanmu, kamu harus mengerjakannya dengan profesional dan penuh tanggung jawab.",
+        "Semangat kerjanya sayang. Kapan pun kamu merasa malas bekerja, ingatlah bahwa di luar sana masih banyak orang yang luntang - lantung cari kerja, ingatlah bahwa di luar sana banyak yang gajinya di bawah satu juga, ingatlah bahwa di luar sana banyak yang kena PHK, dan ingatlah masa saat kamu masih menganggur.",
+        "Semangat kerjanya Badru sayang. Pekerjaan ini bukanlah keberuntungan. Pekerjaan ini adalah takdir, yang Allah berikan kepadamu agar kamu belajar.",
+        "Apapun pekerjaanmu, kerjakan saja. Meski itu bukan pekerjaan yang kamu inginkan, meski itu mungkin saja tidak sesuai passionmu, atau sebagainya. Karena kamu berdiri di atas pekerjaan itu."
+    ],
+    "ceklist": [
+        "Jangan lupa ceklist ya. Aku tau ini pekerjaan sepele tapi kamu tetap harus teliti karena meskipun ini pekerjaan sepele tapi tanggung jawabnya besar."
     ]
 }
