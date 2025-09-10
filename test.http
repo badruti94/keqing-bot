@@ -1,6 +1,6 @@
-POST http://localhost:3000 HTTP/1.1
+POST https://keqing-bot-two.vercel.app HTTP/1.1
 content-type: application/json
-key: wrongkey
+key: pass123
 
 {
     "name": "pagi"
