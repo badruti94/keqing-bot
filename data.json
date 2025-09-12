@@ -21,5 +21,17 @@
         "Selamat malamg sayang, kamu luar biasa hebat karena sudah menyelesaikan hari ini.",
         "Selamat malamg sayang, selamat beristirahat. Hari ini pasti melelahkan ya. Saaa... Sekarang istirahatlah. Rebahkan tubuhmu, istirahatkan pikiranmu.",
         "Malamg sayang. Apa saja yang sudah kamu lakukan hari ini? Apapun itu, kamu hebat karena sudah melakukannya"
+    ],
+    "reimbursment": [
+        "Bikin reimbursment ya. Luangkan waktumu sejenak. Ini takkan lama. Kamu hanya perlu menuliskan tanggal dan screenshot absen. Setidaknya jika dibandingkan dengan uang yang akan kamu dapat."
+    ],
+    "clock_in": [
+        "Jangan lupa clock in talenta ya. Kalo belum clock in, clock in SEKARANG. Pokoknya harus SEKARANG. \nIni penting banget. Kamu ga mau kan 50 rb kamu ilang."
+    ],
+    "clock_in_2": [
+        "UDAH CLOCK IN BELUM??????? CLOCK IN"
+    ],
+    "clock_out": [
+        "Jangan lupa clock out talenta ya. Kalo belum clock out, clock out SEKARANG. Pokoknya harus SEKARANG. \nIni penting banget. Kamu ga mau kan 50 rb kamu ilang."
     ]
 }
